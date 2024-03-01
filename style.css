@@ -159,7 +159,6 @@ html,body{
   width: 100%;
   min-height: 150vh;
   margin-top: 70px;
-  /* background-color: aqua; */
 }
 #usecases h1{
   padding: 20px 0 0 40px;
@@ -414,8 +413,13 @@ footer{
   .percentagebox{
     height: 15vh;
   }
+  .smallbox{
+    margin:auto;
+    width: 45%;
+    height: 40%;
+  }
   .smallbox h4{
-    font-size: 10px;
+    font-size: 15px;
   }
   #page4{
     margin-top: 30px;
